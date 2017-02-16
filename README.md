@@ -1,8 +1,6 @@
 #Project
 
-This is a template for a C++ project. It's a good starting point. Clone and start hacking.
-
-    git clone https://github.com/evpo/cpp-project-template.git cpp_project
+This is Game 357. Try to beat the computer.
 
 CLI:
 
@@ -43,4 +41,4 @@ Clean:
 
 ##License
 
-Creative Commons BSD License
+GPLv3
