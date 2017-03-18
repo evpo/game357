@@ -1,4 +1,4 @@
-#Project
+# Game 357
 
 This is Game 357. Try to beat the computer.
 
@@ -10,13 +10,13 @@ Unit tests:
 
     ./bin/debug/cpp-project-tests
 
-##System requirements
+## System requirements
 
     Linux
     Mingw
     C++11 g++ or clang
 
-##Compile
+## Compile
 
 Build:
 
@@ -34,11 +34,11 @@ Clean:
 
     make clean
 
-##Acknowledgments
+## Acknowledgments
 
 1. [stlplus](http://stlplus.sourceforge.net/)
 2. [gtest](https://github.com/google/googletest)
 
-##License
+## License
 
 GPLv3
